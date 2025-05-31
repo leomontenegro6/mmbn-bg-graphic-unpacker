@@ -55,7 +55,7 @@ Se feito corretamente, a ferramenta deve gerar o arquivo do contêiner remontado
 
 Q: Como faço para obter os offsets dos gráficos de backgrounds?
 
-A: Veja [essa página da wiki](https://github.com/leomontenegro6/mmbn-bg-graphic-unpacker/wiki).
+A: Veja [essa página da wiki](https://github.com/leomontenegro6/mmbn-bg-graphic-unpacker/wiki/Como-obter-offsets-de-gr%C3%A1ficos-de-backgrounds%3F).
 
 Q: Tentei extrair passando um offset específico, mas não funcionou. O que pode ser?
 
